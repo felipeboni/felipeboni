@@ -1,5 +1,8 @@
 <h1>👋 Hi, I’m @felipeboni</h1>
-👀 I’m a Web Front End Development!
+
+<h2>👀 And I’m a Front End Developer!</h2>
+
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeboni&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
