@@ -1,20 +1,12 @@
 <h1>👋 Hi, I’m @felipeboni</h1>
 
-<h4>👀 And I’m a Front End Developer!</h4>
+And I’m a Front End Developer!
 
 <br>
 
-<b>🛠 Main Stacks:</b>
+<h4>🛠 Main Stacks:</h4>
 
-
-    📱  Mobile:  React Native Expo
-    🗄  Backend:  Node.js Nest.js
-    🌐  Frontend:  React Next.js
-    🛢  Database:  MongoDB MariaDB
-    ⚙️  VCS:   Git GitHub Markdown
-    🔧  IDE's:  Visual Studio Code
-    🖥  Design:  AdobeXD Figma
-
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeboni&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
